@@ -1,0 +1,16 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/Asus/OneDrive - Bolu Abant \u0130zzet Baysal \u00dcniversitesi/Masa\u00fcst\u00fc/fpga_project/src/fpga_project.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Asus/OneDrive - Bolu Abant \u0130zzet Baysal \u00dcniversitesi/Masa\u00fcst\u00fc/fpga_project/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

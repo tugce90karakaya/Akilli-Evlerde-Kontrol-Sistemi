@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Users/Asus/Desktop/fpga_proje/fpga_project/src/fpga_project.v",
+  "InstLine" : 1,
+  "InstName" : "LedDimmer",
+  "ModuleFile" : "C:/Users/Asus/Desktop/fpga_proje/fpga_project/src/fpga_project.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "LedDimmer"
+ }
+]
