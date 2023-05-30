@@ -4,7 +4,7 @@
 Akıllı evlerde kontrol sisteminde yangın kontrolü, kapı veya pencerelerin açık olup olmadığı, ve evden çıkınca ışığın açık 
 unutulup unutulmadığı durumları kontrol edilmiştir.
 
-Yangın kontrolü için birinci buton kullanılmıştır. Birinci butona basıldığında yangın var demektir. Mavi led 10 saniye boyunca yanar.
+Yangın kontrolü için birinci buton kullanılmıştır. Birinci butona basıldığında yangın var demektir. Bu durumda mavi led 10 saniye boyunca yanar.
 
 Kapının veya pencerenin açık kalma durumunda mavi led otomatik olarak yanar. Ledin kontrolü clock sinyali ile yapılır.
 
